@@ -1,2 +1,1 @@
-# web-application-security
-web-application-security
+# Web Application Security Study Notes
